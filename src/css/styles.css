@@ -565,10 +565,6 @@ form {
     display: none;
   }
 
-  .contact-btn {
-    margin-left: 0;
-  }
-
   .about-myself {
     flex-direction: row;
     flex: 1;
