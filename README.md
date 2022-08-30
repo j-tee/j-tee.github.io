@@ -2,7 +2,7 @@
 
 # My Porfolio
 
-> https://j-tee.github.io
+https://j-tee.github.io
 > The goal for this project is to master all of the tools and best practices we learned about in previous steps, such as GitHub flow, linter configuration.
 
 ## Built With
