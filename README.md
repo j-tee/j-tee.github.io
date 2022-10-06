@@ -2,7 +2,6 @@
 
 # My Porfolio
 
-https://j-tee.github.io
 > The goal for this project is to master all of the tools and best practices we learned about in previous steps, such as GitHub flow, linter configuration.
 
 ## Built With
@@ -10,6 +9,8 @@ https://j-tee.github.io
 - HTML
 - CSS
 
+## Live demo
+[live demo](https://j-tee.github.io)
 ## Getting Started
 
 To get a local copy for this project and running follow these simple example steps.
